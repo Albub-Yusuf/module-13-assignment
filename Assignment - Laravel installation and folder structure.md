@@ -8,7 +8,7 @@
 - And now you can copy the link open any browser and paste the url or type localhost:8000 on the browser address bar or simply press ctrl & click the url from the command line / git bash that will automatically open the project homepage on your default browser.
 
 <p align="center"><img src="laravel-running-server-image.PNG" alt="Laravel Running Server"></p>
-Figure 1: Running Laravel Project
+<p align="center">Figure 1: Running Laravel Project</p><br>
 
 **Laravel Folder Structure & it’s purposes:**
 <hr>
@@ -41,6 +41,5 @@ Figure 1: Running Laravel Project
 **vendor:** This folder contains third-party packages installed via Composer. Laravel uses Composer to manage its dependencies. Third-party packages are installed in this folder.
 
 
-
 <p align="center"><img src="hello-route.PNG" alt="hello route running"></p>
-Figure 2: running /hello route image
+<p align="center">Figure 2: running /hello route image</p><br>
