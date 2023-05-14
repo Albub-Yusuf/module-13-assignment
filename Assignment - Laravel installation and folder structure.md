@@ -1,4 +1,7 @@
-﻿**Steps for install / create new Laravel Project:**
+﻿**<p align="center">Module-13 Assignment</p>**
+<hr><br>
+
+**Steps for install / create new Laravel Project:**
 <hr>
 
 - Open cmd or git bash or any other command line tools in any desired location you want to create the Laravel project.
@@ -7,6 +10,7 @@
 - Now run php artisan serve command. This artisan command will run the server on localhost:8000 port and provide and URL link of [**http://127.0.0.1:8000**](http://127.0.0.1:8000)
 - And now you can copy the link open any browser and paste the url or type localhost:8000 on the browser address bar or simply press ctrl & click the url from the command line / git bash that will automatically open the project homepage on your default browser.
 
+<br>
 <p align="center"><img src="laravel-running-server-image.PNG" alt="Laravel Running Server"></p>
 <p align="center">Figure 1: Running Laravel Project</p><br>
 
@@ -40,6 +44,6 @@
 
 **vendor:** This folder contains third-party packages installed via Composer. Laravel uses Composer to manage its dependencies. Third-party packages are installed in this folder.
 
-
+<br>
 <p align="center"><img src="hello-route.PNG" alt="hello route running"></p>
 <p align="center">Figure 2: running /hello route image</p><br>
